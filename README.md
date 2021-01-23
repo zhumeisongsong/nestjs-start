@@ -52,3 +52,17 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 [MIT licensed](LICENSE).
+
+
+OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)
+
+
+TODOs:
+- [ ]  Controllers & Providers & Modules
+- [ ]  Add graphql 
+- [ ]  Deploy to Heloku
+- [ ]  Create/Update/List/Detail API
+- [ ]  OOP & FP & FRP  
+- [ ]  Imperative & Declarative
+
+
