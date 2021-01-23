@@ -2,14 +2,14 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-**Controllers** are responsible for handling incoming requests and returning responses to the client.
+Build a basic CRUD application with features that cover a lot of ground at an introductory level.
+
 
 `nest g controller cats`
 
 **Controllers** always belong to a module, which is why we include the controllers array within the @Module() decorator
 
 Many of the basic Nest classes may be treated as a provider – services, repositories, factories, helpers, and so on. 
-
 
 
 ## Installation
@@ -44,6 +44,16 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+
+OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)
+
+
+TODOs:
+- [x]  Controllers & Providers & Modules
+- [x]  Build a basic CRUD application
+- [ ]  Add graphql 
+- [ ]  Deploy to Heloku
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
@@ -53,16 +63,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 [MIT licensed](LICENSE).
 
-
-OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)
-
-
-TODOs:
-- [ ]  Controllers & Providers & Modules
-- [ ]  Add graphql 
-- [ ]  Deploy to Heloku
-- [ ]  Create/Update/List/Detail API
-- [ ]  OOP & FP & FRP  
-- [ ]  Imperative & Declarative
 
 
